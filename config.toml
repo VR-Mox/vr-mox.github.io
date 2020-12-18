@@ -1,5 +1,5 @@
 baseURL = "https://vr-mox.github.io/"
 languageCode = "en-us"
-title = "MOX"
+title = "MOX: Multiplayer Online eXchange"
 theme = "dimension"
 publishDir = "docs"
