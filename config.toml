@@ -1,4 +1,4 @@
-baseURL = "http://vrmox.com/"
+baseURL = "https://vr-mox.github.io/"
 languageCode = "en-us"
 title = "MOX"
 theme = "dimension"
