@@ -3,19 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://vrmox.com/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/learn_more/</loc>
+    <loc>http://vrmox.com/learn_more/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>http://vrmox.com/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://vrmox.com/tags/</loc>
   </url>
   
 </urlset>

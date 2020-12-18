@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Learn More on MOX</title>
-    <link>http://example.org/learn_more/</link>
+    <link>http://vrmox.com/learn_more/</link>
     <description>Recent content in Learn More on MOX</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/learn_more/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://vrmox.com/learn_more/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
