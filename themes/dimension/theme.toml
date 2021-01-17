@@ -16,3 +16,5 @@ min_version = 0.54
     homepage = "https://html5up.net"
 
 publishDir = "docs"
+
+unsafe= true

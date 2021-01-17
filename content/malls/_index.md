@@ -5,4 +5,4 @@ icon: "flag"
 ---
 Come visit your favorite malls in a virtual space will all new stores!
 
- {{< youtube POTGCRtKiiU >}}
+{{< youtube POTGCRtKiiU >}}

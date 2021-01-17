@@ -3,3 +3,8 @@ languageCode = "en-us"
 title = "MOX: Multiplayer Online eXchange"
 theme = "dimension"
 publishDir = "docs"
+unsafe= true
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
